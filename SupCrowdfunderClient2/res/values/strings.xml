@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello World !</string>
+    <string name="app_name">ProjectListActivity</string>
+    <string name="cancel_message">Modification canceled</string>
+    <string-array name="strProjects">
+        <item>Project 1</item>
+        <item>Project 2</item>
+        <item>Project 3</item>
+        <item>Project 4</item>
+        <item>Project 5</item>
+    </string-array>
+</resources>
